@@ -1,0 +1,12 @@
+channels:
+- conda-forge
+dependencies:
+- python=3.13.0
+- pip<=24.3.1
+- pip:
+  - mlflow==2.18.0rc0
+  - click==8.1.7
+  - openai==1.54.4
+  - tenacity==9.0.0
+  - tiktoken==0.8.0
+name: mlflow-env

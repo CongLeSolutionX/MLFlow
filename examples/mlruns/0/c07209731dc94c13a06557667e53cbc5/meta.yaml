@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/orangecloud/Desktop/PROJECTS/TOOLS/MLFlow/examples/mlruns/0/c07209731dc94c13a06557667e53cbc5/artifacts
+end_time: 1731572981309
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c07209731dc94c13a06557667e53cbc5
+run_name: debonair-rat-726
+run_uuid: c07209731dc94c13a06557667e53cbc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731572981288
+status: 4
+tags: []
+user_id: orangecloud
